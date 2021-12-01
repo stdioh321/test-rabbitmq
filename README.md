@@ -1,0 +1,2 @@
+# test-rabbitmq
+Testing RabbitMQ

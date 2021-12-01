@@ -1,3 +1,8 @@
+# CUSTOM
+.vscode
+package-lock.json
+
+# DEFAULT
 # Logs
 logs
 *.log
